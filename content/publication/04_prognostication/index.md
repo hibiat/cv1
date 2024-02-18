@@ -8,7 +8,7 @@ authors:
 - Pascal N. Tyrrell
 - CENTER-TBI and CINTER-TBI Participants and Investigators
 date: "2024-02-15T00:00:00Z"
-doi: ""
+doi: "http://doi.org/10.1089/neu.2023.0446"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-15T00:00:00Z"

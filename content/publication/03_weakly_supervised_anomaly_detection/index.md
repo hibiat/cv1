@@ -35,7 +35,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://doi.org/10.1007/s11548-023-02965-4
-url_code: 'https://github.com/hibiat/wsad.'
+url_code: 'https://github.com/hibiat/wsad'
 url_dataset: ''
 url_poster: ''
 url_project: ''

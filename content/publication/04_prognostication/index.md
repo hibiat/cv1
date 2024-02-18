@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/brown-brain-decor-in-selective-focus-photography-3KGF9R_0oHs?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/a-black-and-white-photo-of-various-mri-images-BDKid0yJcAk?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)'
   focal_point: ""
   preview_only: false
 

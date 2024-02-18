@@ -65,23 +65,21 @@ sections:
         - title: Company sponsored PhD program
           company: University of Toronto
           #company_url: ''
-          #company_logo: org-gc
+          company_logo: uoft
           location: Toronto, Canada
           date_start: '2021-09-01'
           date_end: ''
-          # description: |2-
-          #     Responsibilities include:
+          description: |2-
+              Tentative thesis title:
+              * Development of Multimodal Machine Learning-Based Prognostic Models for Traumatic Brain Injury
 
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
         - title: Senior Researcher
           company: Nippon Steel Corporation 
           company_url: 'https://www.nipponsteel.com/'
-          #company_logo: org-x
+          company_logo: nsc
           location: Japan
           date_start: '2012-04-01'
-          #date_end: '2020-12-31'
+          date_end: ''
           description: |2-
             Responsibilities include:
               - Research and development for machine vision systems for quality management.

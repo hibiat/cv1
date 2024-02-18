@@ -1,5 +1,5 @@
 ---
-title: 'Systematic review'
+title: 'Systematic Review: Automated identification and quantification of traumatic brain injury from CT scans'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -42,7 +42,7 @@ summary: Systematic review focusing on the intersection of machine learning and 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -3,7 +3,7 @@
 title: Atsuhiro Hibi
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Atsuhiro
@@ -32,7 +32,6 @@ interests:
   - Machine learning
   - Medical imaging
   - Computer vision for 3D images
-  - Traumatic brain injury
 
 # Education to show in About widget
 education:
